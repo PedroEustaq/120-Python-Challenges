@@ -1,0 +1,7 @@
+print("LOCALIZADOR DE 'As'")
+frase = input("Escreva a frase").strip()
+tamanhoF = len(frase)
+fraseA = frase.upper().count("A", 0,9999)
+primeiroA = frase.upper().find("A", 0,tamanhoF)
+ultimoA = frase.upper().rfind("A",0,tamanhoF)
+print("Quantidade de As {}, O Primeiro A esta na posição  {}, O Ultimo A esta na posição {}".format(fraseA,primeiroA,ultimoA))

@@ -1,0 +1,10 @@
+print("CAIXA ALTA, MINÚSCULAS E QUANTIDADE DE LETRAS")
+nomeP = input("Qual seu nome?")
+nomeMai = nomeP.upper()
+print("Seu nome em caixa alta é : " + nomeMai)
+nomeMin = nomeP.lower()
+print("Seu nome em letras minúsculas é " + nomeMin)
+tamanho = len(nomeP)
+quantosEsp = nomeP.count(" ")
+nomesemESP = tamanho - quantosEsp
+print("Quantidade de letras no seu nome: " + nomesemESP)
