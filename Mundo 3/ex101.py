@@ -1,3 +1,4 @@
+print("FUNÇÃO VOTO")
 from datetime import datetime
 def voto(ano):
     idade = datetime.now().year - ano

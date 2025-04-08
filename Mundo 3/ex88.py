@@ -1,5 +1,5 @@
 import random
-
+print("SORTEADOR DE JOGOS DA MEGA SENA")
 quantosJogos = int(input("Quantos jogos você quer que eu sorteie?"))
 presentes = list()
 jogos = list()

@@ -1,5 +1,5 @@
 import random
-
+print("FUNÇÃO SOMA PAR E SORTEIA")
 numeros = list()
 def sorteia():
     for n in range(0,5):

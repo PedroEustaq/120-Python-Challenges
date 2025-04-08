@@ -1,3 +1,4 @@
+print("GERADOR DE TUPLA ALEATORIA (MAIOR E MENOR)")
 import random
 
 r1 = random.randint(0, 10)

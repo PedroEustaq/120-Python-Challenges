@@ -1,3 +1,4 @@
+print("MENU DE SOMA, MULTIPLICAR...")
 sairPrograma = 0
 print("Digite dois números")
 num1 = int(input("Valor número 1: "))

@@ -1,5 +1,5 @@
 nomeJogador = str(input("Nome do jogador: "))
-
+print("ANALISANDO UM JOGADOR")
 qtnPart = int(input(f"Quantas partidas {nomeJogador} jogou?"))
 gols = list()
 TOT = 0

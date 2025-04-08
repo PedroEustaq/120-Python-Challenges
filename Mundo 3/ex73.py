@@ -1,3 +1,4 @@
+print("INFORMAÇÕES DE TIMES")
 times = (
     "América-MG",
     "Athletico Paranaense",

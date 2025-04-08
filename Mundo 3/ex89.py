@@ -1,4 +1,5 @@
 quercontinuar = "S"
+print("CADASTRO E NOTAS DE ALUNOS")
 tuplaAlunos = list()
 novoAluno = list()
 mostrarNota = 0

@@ -1,3 +1,4 @@
+print("CADASTRAS PESSOAS E CHECAR INFORMAÇÕES")
 continuar = "S"
 qtnDezoi = 0
 qtnHome = 0

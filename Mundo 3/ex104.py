@@ -1,3 +1,4 @@
+print("FUNÇÃO LEIAINT")
 def leiaInt(frase):
     valor = ""
     while not valor.isdigit():

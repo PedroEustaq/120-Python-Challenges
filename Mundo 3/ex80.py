@@ -1,6 +1,6 @@
 tuplaa = [0,0,0,0,0]
+print("ADICIONANDO VALORES EM UMA TUPLA")
 for pos,c in enumerate(tuplaa):
-    print(pos)
     n1 = int(input("Digite um valor: "))
     if tuplaa[4] < n1:
         tuplaa[4] = n1

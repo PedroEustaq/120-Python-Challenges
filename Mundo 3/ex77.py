@@ -1,3 +1,4 @@
+print("VOGAIS EM LETRAS")
 palavras = ('COMER', 'BEBER', 'CORRER', 'ANDAR', 'PULAR', 'DORMIR', 'FALAR', 'OUVIR', 'ESCREVER', 'LER', 'ESTUDAR')
 
 

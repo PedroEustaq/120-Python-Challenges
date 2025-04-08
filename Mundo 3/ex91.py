@@ -1,6 +1,6 @@
 import random
 
-
+print("ROLANDO UM DADO")
 dadosJogadores = {"Jogador1":random.randint(1,6),"Jogador2":random.randint(1,6),"Jogador3":random.randint(1,6),"Jogador4":random.randint(1,6)}
 dadosOrdenados = dict(sorted(dadosJogadores.items(), key=lambda item: item[1], reverse=True))
 for k,v in dadosJogadores.items():

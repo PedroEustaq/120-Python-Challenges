@@ -2,6 +2,7 @@ n = "oi"
 lista = []
 cincoEsta = ""
 qtn = 0
+print("O VALOR 5, ESTÁ PRESENTE?")
 while n != "parar":
     n = str(input("Digite um valor: "))
     lista.append(int(n))

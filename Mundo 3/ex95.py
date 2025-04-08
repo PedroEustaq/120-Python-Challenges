@@ -1,5 +1,6 @@
 querContinuarJogador = "S"
 gols = list()
+print("FUNÇÕES LEVANTAMENTO DE JOGADOR")
 TOT = 0
 listaJogadores = list()
 while querContinuarJogador == "S":
@@ -17,7 +18,7 @@ print("=-="*30)
 print(dicionarioJogador)
 for pos,c in enumerate(listaJogadores):
     print(f"COD: {pos} NOME: {listaJogadores[pos]["nome"]} GOLS: {listaJogadores[pos]["gols"]} TOTAL: {listaJogadores[pos]["total"]}")
-mostrarDados = int(input("Mostrar dados de qual jogador?: "))
+mostrarDados = int(input("Mostrar dados de qual jogador? (insira o código): "))
 while mostrarDados != 999:
     print(f"- LEVANTAMENTO DO JOGADOR {listaJogadores[mostrarDados]["nome"]}")
     for pos,c in enumerate(listaJogadores[mostrarDados]["gols"]):

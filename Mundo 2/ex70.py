@@ -1,3 +1,4 @@
+print("ANALISADOR DE PRODUTOS DE MERCADO")
 listaCompra = []
 continuar = "S"
 totalGasto = 0

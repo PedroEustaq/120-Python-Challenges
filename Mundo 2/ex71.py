@@ -1,3 +1,4 @@
+print("NOTAS A SEREM SACADAS")
 valorSerSacado = int(input("Qual o valor a ser sacado?"))
 
 Celula1 = valorSerSacado / 50

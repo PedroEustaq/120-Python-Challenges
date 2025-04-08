@@ -1,3 +1,4 @@
+print("FUNÇÃO FATORIAL")
 def fatorial(numero,show=True):
     '''
     -> Faz uma contagem e mostra na tela

@@ -1,3 +1,4 @@
+print("NOTAS ALUNOS")
 def notas(*notas, sit):
     informac = dict()
     qtn = 0

@@ -1,4 +1,4 @@
-
+print("FUNÇÃO MAIOR")
 def maior(*num):
     qtn = 0
     maiorn = 0

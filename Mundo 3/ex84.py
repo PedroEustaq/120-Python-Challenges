@@ -1,5 +1,5 @@
 sOUn = "s"
-
+print("SEPARAR POR PESO LEVE/PESADO")
 galera = list()
 novaPessoa = list()
 maisPesada = list()

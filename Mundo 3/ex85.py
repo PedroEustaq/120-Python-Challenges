@@ -1,3 +1,4 @@
+print("7 NÚMEROS SEPARADOS EM TUPLAS (PAR/ÍMPAR)")
 impar = list()
 pares = list()
 listaFinal = list()

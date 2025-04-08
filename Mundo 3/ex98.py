@@ -1,3 +1,4 @@
+print("FUNÇÃO CONTADOR, INICIO FIM E PASSOS")
 def contador(i,f,p):
     if p == 0:
         p = 1

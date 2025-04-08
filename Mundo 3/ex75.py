@@ -1,3 +1,4 @@
+print("QUANTAS VEZES O NÚMERO 9 APARECE")
 n1 = int(input("Qual o primeiro valor? "))
 n2 = int(input("Qual o segundo valor? "))
 n3 = int(input("Qual o terceiro valor? "))

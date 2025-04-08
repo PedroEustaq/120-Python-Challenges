@@ -1,3 +1,4 @@
+print("FUNÇÃO HELP MANUAL")
 def acessarHelp(f):
     print("\033[7;30;46m")
     help(f)

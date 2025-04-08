@@ -1,4 +1,3 @@
-import math
 import random
 import time
 print("ADIVINHE O NÚMERO V2")

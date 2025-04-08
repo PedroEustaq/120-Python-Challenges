@@ -1,6 +1,8 @@
 n = 0
 s = 0
 qtn = 0
+print("REGISTRAR ALGUNS NÚMEROS E SOMAR")
+print("Para parar digite 999")
 while n != 999:
     n = int(input("Digite um número"))
     if n == 999:

@@ -1,5 +1,5 @@
 import random
-
+print("JOGAR PAR OU ÍMPAR")
 minJoga = 0
 escolhaPC = 0
 perdeu = False

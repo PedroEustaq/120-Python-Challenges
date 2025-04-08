@@ -1,4 +1,4 @@
-
+print("CRIADOR DE MATRIZES 3x3")
 matriz = [ [[0],[1],[2]], [[0],[1],[2]], [[0],[1],[2]] ]
 matrizR = list()
 tru = True

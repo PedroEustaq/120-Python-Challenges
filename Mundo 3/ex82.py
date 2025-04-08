@@ -2,6 +2,7 @@ n = "oi"
 lista = []
 impar = []
 par = []
+print("ADICIONAR VALORES A MÚLTIPLAS TUPLAS")
 while n != "parar":
     n = str(input("Digite um valor: "))
     if n == "parar":

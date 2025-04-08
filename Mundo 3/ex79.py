@@ -1,3 +1,4 @@
+print("CADASTRAR NOVOS NÚMEROS EM TUPLAS")
 print("Digite parar para parar a execução")
 parar = ""
 numeros = []

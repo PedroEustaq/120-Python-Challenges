@@ -1,6 +1,7 @@
 querContinua = "S"
 pessoas = list()
 totPessoas = 0
+print("CALCULAR MÉDIA DE IDADE ENTRE N PESSOAS")
 totalIdade = 0
 todasMulheres = list()
 while querContinua.upper() == "S":
@@ -19,5 +20,5 @@ maiorQMedia = list()
 for pos,c in enumerate(pessoas):
     if pessoas[pos]["idade"] > media:
         maiorQMedia.append(pessoas[pos]["nome"])
-print(media)
-print(maiorQMedia)
+print(f"A média de idade é: {media}")
+print(f"Resultados maiores que a média: {maiorQMedia}")

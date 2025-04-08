@@ -1,3 +1,4 @@
+print("LOCALIZANDO MENOR E MAIOR VALOR")
 n1 = int(input("Qual o primeiro número?"))
 n2 = int(input("Qual o segundo número?"))
 n3 = int(input("Qual o terceiro número?"))
